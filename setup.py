@@ -7,11 +7,11 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="image_processing_packages",
     version="0.0.1",
-    author="my_name",
+    author="Thales Araujo",
     author_email="my_email",
-    description="My short description",
+    description="Pacotes de processamento de imagens",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="my_github_repository_project_link"
