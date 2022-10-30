@@ -10,7 +10,7 @@ setup(
     name="image_processing_packages",
     version="0.0.1",
     author="Thales Araujo",
-    author_email="my_email",
+    author_email="thalesaraujobs@gmail.com",
     description="Pacotes de processamento de imagens",
     long_description=page_description,
     long_description_content_type="text/markdown",
